@@ -7,3 +7,5 @@ Speech to text and Text to speech must be included in a future version.
 - ToDo
 Backend system allowing parents to create and manage the chores must provide data to be fetch by the bot and a simple authentication mechanism must be integrated to identify each child. 
 This project is also aimed to be linked to existing chores applications to complement or replace their standard UI flows.
+
+Example integration Webchat in HTML simple test: https://venturio1256.github.io/****
